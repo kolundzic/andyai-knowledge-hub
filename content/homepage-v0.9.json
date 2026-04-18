@@ -1,0 +1,94 @@
+{
+  "version": "v0.9",
+  "title": "AndyAI Knowledge Hub",
+  "eyebrow": "Live AI knowledge surface",
+  "subheading": "A living front page for curated AI signals, practical system ideas, structured resources, and visible proof.",
+  "heroBody": "Built as a real working hub — not a vague concept page. It connects live project presentation, repository-backed structure, public-facing refinement, and a growing base for future screenshots, diagrams, videos, and deeper reference material.",
+  "heroCtas": [
+    {"label": "Explore the Hub", "href": "/"},
+    {"label": "Open GitHub", "href": "https://github.com/kolundzic/andyai-knowledge-hub"}
+  ],
+  "proofStrip": [
+    "Live on Vercel",
+    "GitHub-backed",
+    "Versioned upgrades",
+    "Media-ready foundation"
+  ],
+  "showcase": {
+    "label": "Core layers",
+    "heading": "A cleaner front page for real AI project presentation",
+    "body": "This hub is being refined as a practical public surface: a place where curated signals, project directions, structured resources, and visible proof can grow together without noise.",
+    "cards": [
+      {
+        "title": "Signal Review Layer",
+        "text": "Tracks high-signal tools, model updates, product shifts, and system patterns worth serious attention."
+      },
+      {
+        "title": "Knowledge Hub Structure",
+        "text": "Organizes sections, lanes, and entry points into a cleaner long-term architecture."
+      },
+      {
+        "title": "Public Proof Surface",
+        "text": "Connects the live site, repository, and visible refinement passes into a stronger credibility layer."
+      },
+      {
+        "title": "Media-Ready Foundation",
+        "text": "Prepares the front page for future screenshots, block diagrams, SVG motion, and video-backed explanation modules."
+      }
+    ]
+  },
+  "credibility": {
+    "label": "Credibility in motion",
+    "heading": "Built in public. Refined in passes. Ready for real content growth.",
+    "body": "The hub evolves through visible versioned upgrades, live deployment checks, repository sync, and iterative homepage refinement — creating a stronger public front before richer screenshots, diagrams, tutorials, and video layers are added.",
+    "bullets": [
+      "Live deployment active",
+      "Repository structure aligned",
+      "Versioned upgrade flow",
+      "Real expansion in progress"
+    ]
+  },
+  "gallery": {
+    "label": "Preview blocks",
+    "heading": "Visual zones prepared for real artifacts",
+    "body": "These sections are being shaped to support actual screenshots, diagram previews, UI captures, and future media assets — not empty decorative filler.",
+    "captions": [
+      "Homepage refinement layer for public-facing clarity",
+      "Showcase block prepared for real project modules",
+      "Credibility section aligned with live build direction",
+      "Gallery zone reserved for future proof visuals",
+      "Resource lanes structured for practical materials",
+      "Media layer prepared for later screenshots and diagrams"
+    ]
+  },
+  "resources": {
+    "label": "Resource lanes",
+    "heading": "A growing base for practical materials, not just concepts",
+    "body": "The platform is being organized to support real tutorials, signal notes, project references, diagrams, and curated AI materials over time.",
+    "lanes": [
+      "AI signal notes",
+      "Practical system concepts",
+      "Project structure references",
+      "Visual explanation modules"
+    ]
+  },
+  "futureMedia": {
+    "label": "Next visual layers",
+    "heading": "Prepared for screenshots, diagrams, motion, and deeper proof content",
+    "body": "The structure is intentionally being tightened first. Later passes will introduce real screenshots, block diagrams, SVG-driven motion elements, and video explainers in a cleaner and more believable way.",
+    "items": [
+      "Screenshot modules",
+      "Diagram layer",
+      "SVG motion blocks",
+      "Video explainers"
+    ]
+  },
+  "finalCta": {
+    "heading": "This is not a finished archive. It is a live front page being shaped into a serious knowledge surface.",
+    "body": "The current goal is not to add noise. It is to build a cleaner, more credible, and more expandable public front for everything that comes next.",
+    "buttons": [
+      {"label": "Explore Sections", "href": "/"},
+      {"label": "View Live Project", "href": "https://andyai-knowledge-hub.vercel.app/"}
+    ]
+  }
+}
