@@ -1,0 +1,26 @@
+<svg width="1200" height="720" viewBox="0 0 1200 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1200" height="720" rx="32" fill="#0B1324"/>
+<rect x="48" y="48" width="1104" height="624" rx="28" fill="url(#bg)" stroke="rgba(125,211,252,0.20)"/>
+<circle cx="250" cy="130" r="110" fill="#C084FC" fill-opacity="0.10"/>
+<rect x="96" y="106" width="154" height="34" rx="17" fill="#13223D" stroke="#28466F"/>
+<text x="124" y="129" fill="#7DD3FC" font-family="Arial, sans-serif" font-size="16" font-weight="700">VISUAL LANE</text>
+<text x="96" y="220" fill="#EEF2FF" font-family="Arial, sans-serif" font-size="54" font-weight="700">System clarity through diagrams</text>
+<text x="96" y="272" fill="#A6B2CF" font-family="Arial, sans-serif" font-size="26">Visual notes that make architecture easier to explain and remember.</text>
+<rect x="96" y="338" width="1008" height="250" rx="28" fill="#0E1A31" stroke="#223959"/>
+<rect x="156" y="408" width="180" height="92" rx="20" fill="#111B31" stroke="#2B466D"/>
+<rect x="506" y="408" width="180" height="92" rx="20" fill="#111B31" stroke="#2B466D"/>
+<rect x="856" y="408" width="180" height="92" rx="20" fill="#111B31" stroke="#2B466D"/>
+<text x="196" y="462" fill="#EEF2FF" font-family="Arial, sans-serif" font-size="28" font-weight="700">Input</text>
+<text x="534" y="462" fill="#EEF2FF" font-family="Arial, sans-serif" font-size="28" font-weight="700">System</text>
+<text x="892" y="462" fill="#EEF2FF" font-family="Arial, sans-serif" font-size="28" font-weight="700">Output</text>
+<path d="M336 454H506" stroke="#7DD3FC" stroke-width="6" stroke-linecap="round"/>
+<path d="M686 454H856" stroke="#7DD3FC" stroke-width="6" stroke-linecap="round"/>
+<circle cx="421" cy="454" r="10" fill="#C084FC"/>
+<circle cx="771" cy="454" r="10" fill="#C084FC"/>
+<defs>
+<linearGradient id="bg" x1="48" y1="48" x2="1152" y2="672" gradientUnits="userSpaceOnUse">
+<stop stop-color="#10192F"/>
+<stop offset="1" stop-color="#0B1324"/>
+</linearGradient>
+</defs>
+</svg>

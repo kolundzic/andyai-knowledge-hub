@@ -1,0 +1,25 @@
+<svg width="1200" height="720" viewBox="0 0 1200 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1200" height="720" rx="32" fill="#0B1324"/>
+<rect x="48" y="48" width="1104" height="624" rx="28" fill="url(#bg)" stroke="rgba(125,211,252,0.20)"/>
+<circle cx="1040" cy="150" r="150" fill="#7DD3FC" fill-opacity="0.10"/>
+<rect x="96" y="106" width="176" height="34" rx="17" fill="#13223D" stroke="#28466F"/>
+<text x="122" y="129" fill="#7DD3FC" font-family="Arial, sans-serif" font-size="16" font-weight="700">RESOURCE LANE</text>
+<text x="96" y="220" fill="#EEF2FF" font-family="Arial, sans-serif" font-size="54" font-weight="700">Stable written base</text>
+<text x="96" y="272" fill="#A6B2CF" font-family="Arial, sans-serif" font-size="26">PDF-oriented guides and references worth revisiting.</text>
+<rect x="96" y="334" width="1008" height="254" rx="28" fill="#0E1A31" stroke="#223959"/>
+<rect x="138" y="376" width="220" height="170" rx="20" fill="#131F39" stroke="#2B466D"/>
+<rect x="178" y="416" width="140" height="10" rx="5" fill="#7DD3FC"/>
+<rect x="178" y="444" width="140" height="10" rx="5" fill="#2C456A"/>
+<rect x="178" y="472" width="116" height="10" rx="5" fill="#2C456A"/>
+<rect x="406" y="376" width="658" height="34" rx="17" fill="#1B2B49"/>
+<rect x="406" y="432" width="612" height="18" rx="9" fill="#263B5B"/>
+<rect x="406" y="468" width="544" height="18" rx="9" fill="#263B5B"/>
+<rect x="406" y="504" width="584" height="18" rx="9" fill="#263B5B"/>
+<rect x="406" y="540" width="184" height="30" rx="15" fill="#C084FC" fill-opacity="0.75"/>
+<defs>
+<linearGradient id="bg" x1="48" y1="48" x2="1152" y2="672" gradientUnits="userSpaceOnUse">
+<stop stop-color="#10192F"/>
+<stop offset="1" stop-color="#0B1324"/>
+</linearGradient>
+</defs>
+</svg>

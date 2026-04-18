@@ -1,0 +1,29 @@
+<svg width="1200" height="720" viewBox="0 0 1200 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1200" height="720" rx="32" fill="#0B1324"/>
+<rect x="48" y="48" width="1104" height="624" rx="28" fill="url(#bg)" stroke="rgba(125,211,252,0.20)"/>
+<circle cx="1020" cy="120" r="120" fill="#7DD3FC" fill-opacity="0.12"/>
+<circle cx="980" cy="160" r="220" fill="#C084FC" fill-opacity="0.08"/>
+<rect x="96" y="106" width="170" height="34" rx="17" fill="#13223D" stroke="#28466F"/>
+<text x="126" y="129" fill="#7DD3FC" font-family="Arial, sans-serif" font-size="16" font-weight="700">TUTORIAL LANE</text>
+<text x="96" y="220" fill="#EEF2FF" font-family="Arial, sans-serif" font-size="54" font-weight="700">Practical AI workflows</text>
+<text x="96" y="272" fill="#A6B2CF" font-family="Arial, sans-serif" font-size="26">Guides that turn signal into a repeatable study method.</text>
+<rect x="96" y="338" width="420" height="220" rx="24" fill="#0E1A31" stroke="#223959"/>
+<rect x="128" y="380" width="252" height="18" rx="9" fill="#213555"/>
+<rect x="128" y="422" width="322" height="18" rx="9" fill="#213555"/>
+<rect x="128" y="464" width="284" height="18" rx="9" fill="#213555"/>
+<rect x="128" y="512" width="128" height="32" rx="16" fill="#7DD3FC"/>
+<rect x="558" y="338" width="546" height="220" rx="24" fill="#111B31" stroke="#2B466D"/>
+<rect x="598" y="378" width="466" height="122" rx="18" fill="#0B1324" stroke="#2B466D"/>
+<path d="M650 458L734 392L806 440L892 360L980 424" stroke="#C084FC" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="650" cy="458" r="8" fill="#7DD3FC"/>
+<circle cx="734" cy="392" r="8" fill="#7DD3FC"/>
+<circle cx="806" cy="440" r="8" fill="#7DD3FC"/>
+<circle cx="892" cy="360" r="8" fill="#7DD3FC"/>
+<circle cx="980" cy="424" r="8" fill="#7DD3FC"/>
+<defs>
+<linearGradient id="bg" x1="66" y1="64" x2="1110" y2="648" gradientUnits="userSpaceOnUse">
+<stop stop-color="#10192F"/>
+<stop offset="1" stop-color="#0B1324"/>
+</linearGradient>
+</defs>
+</svg>
