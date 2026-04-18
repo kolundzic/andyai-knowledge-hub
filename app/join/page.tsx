@@ -1,15 +1,24 @@
-import { site } from '@/lib/siteContent'
+import { site } from '@/lib/siteContent';
 
 export default function JoinPage() {
   return (
-    <main className="page-shell">
+    <div className="page-shell">
       <div className="container">
-        <h1>Join</h1>
-        <div className="card">
-          <p>{site.sections.join}</p>
-          <p className="codebox">Placeholder: connect your email form or waitlist tool here in the next pack.</p>
+        <div className="page-intro-shell narrow-copy">
+          <div className="kicker">Join</div>
+          <h1>Follow the next wave of practical material</h1>
+          <p className="page-intro">{site.sections.join}</p>
+          <div className="cta-panel compact">
+            <div>
+              <h2>Waitlist / form placeholder</h2>
+              <p>
+                Connect your email tool, waitlist form, or lightweight audience capture block in the
+                next pack. The structure is ready for it.
+              </p>
+            </div>
+          </div>
         </div>
       </div>
-    </main>
-  )
+    </div>
+  );
 }

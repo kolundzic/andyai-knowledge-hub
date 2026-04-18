@@ -1,24 +1,31 @@
-import { site } from '@/lib/siteContent'
-
-const sampleTutorials = [
-  'How to structure AI work with files instead of chaos',
-  'How to build a useful tutorial from raw notes',
-  'How to turn a concept into a clean block diagram',
-  'How to prepare written materials before video production'
-]
+import { tutorials } from '@/lib/library';
+import { site } from '@/lib/siteContent';
 
 export default function TutorialsPage() {
   return (
-    <main className="page-shell">
+    <div className="page-shell">
       <div className="container">
-        <h1>Tutorials</h1>
-        <p className="page-intro">{site.sections.tutorials}</p>
-        <div className="grid-2">
-          {sampleTutorials.map((item) => (
-            <div key={item} className="card"><h3>{item}</h3><p>Starter placeholder block for the first public tutorial library.</p></div>
+        <div className="page-intro-shell">
+          <div className="kicker">Tutorials</div>
+          <h1>Tutorials for practical AI work</h1>
+          <p className="page-intro">{site.sections.tutorials}</p>
+        </div>
+
+        <div className="grid-3 editorial-grid">
+          {tutorials.map((item) => (
+            <article className="library-card" key={item.slug}>
+              <div className="card-tag">{item.tag}</div>
+              <h3>{item.title}</h3>
+              <p>{item.description}</p>
+              <div className="meta-row">
+                <span>{item.level}</span>
+                <span>{item.format}</span>
+              </div>
+              <div className="card-link">Open tutorial note →</div>
+            </article>
           ))}
         </div>
       </div>
-    </main>
-  )
+    </div>
+  );
 }
